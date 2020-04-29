@@ -1,0 +1,9 @@
+# letsdoit
+Hello, it is my first github respiratory.
+#include<stdio.h>
+int main(){
+int a,b;
+scanf("%d%d",a,b);
+if(a==b)printf("equal");
+else printf("not equal"):
+
